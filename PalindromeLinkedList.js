@@ -10,5 +10,5 @@
  * @return {boolean}
  */
  var isPalindrome = function(head) {
-    
+    let valuesFound = [];
 };
