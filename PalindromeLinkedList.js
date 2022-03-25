@@ -32,5 +32,5 @@
  * Iterate through the linked list and push each value into the array.
  * Then iterate through the array and compare the values at the beginning and end of the array.
  * If the values are not equal, we return false.
- * 
+ * If we make it to the end of the array without returning false, we return true.
  */
