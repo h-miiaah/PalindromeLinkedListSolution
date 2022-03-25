@@ -12,6 +12,6 @@
  var isPalindrome = function(head) {
     let valuesFound = [];
     while (head) {
-        
+        valuesFound.push(head.val);
     }
 };
