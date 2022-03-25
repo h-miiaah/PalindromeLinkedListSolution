@@ -28,5 +28,6 @@
 };
 
 /**
+ * Create an array to hold the values of the linked list.
  * 
  */
