@@ -22,5 +22,6 @@
         if (valuesFound[left] !== valuesFound[right]) {
             return false;
         }
+        left++, right--;
     }
 };
