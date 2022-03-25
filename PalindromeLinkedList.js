@@ -13,5 +13,6 @@
     let valuesFound = [];
     while (head) {
         valuesFound.push(head.val);
+        head = head.next;
     }
 };
