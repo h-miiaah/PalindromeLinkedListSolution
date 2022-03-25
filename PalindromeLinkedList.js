@@ -17,4 +17,5 @@
     }
 
     let left = 0;
+    let right = valuesFound.length - 1;
 };
