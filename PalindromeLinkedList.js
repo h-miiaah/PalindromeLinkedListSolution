@@ -15,4 +15,6 @@
         valuesFound.push(head.val);
         head = head.next;
     }
+
+    let left = 0;
 };
