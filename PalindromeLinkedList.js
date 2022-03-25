@@ -24,4 +24,5 @@
         }
         left++, right--;
     }
+    return true;
 };
