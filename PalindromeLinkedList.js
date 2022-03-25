@@ -30,5 +30,6 @@
 /**
  * Create an array to hold the values of the linked list.
  * Iterate through the linked list and push each value into the array.
+ * Then iterate through the array and compare the values at the beginning and end of the array.
  * 
  */
